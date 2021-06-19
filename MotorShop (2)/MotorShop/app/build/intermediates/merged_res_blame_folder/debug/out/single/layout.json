@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\edit_customer.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\edit_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_staff.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\item_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add_depart.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\add_depart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_main.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\item_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add_customer.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\add_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\edit_depart.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\edit_depart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\actvity_staff.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\actvity_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\add_staff.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\add_staff.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_depart.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\item_depart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_depart.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\activity_depart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_verify.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_customer.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\item_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\activity_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\edit_staff.xml",
+        "source": "C:\\Users\\Admin\\Downloads\\PROJECT_ANDROID\\MotorShop (2)\\MotorShop\\app\\src\\main\\res\\layout\\edit_staff.xml"
+    }
+]

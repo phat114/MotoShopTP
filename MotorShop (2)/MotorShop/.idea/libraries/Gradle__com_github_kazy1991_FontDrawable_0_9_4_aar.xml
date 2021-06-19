@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kazy1991:FontDrawable:0.9.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/096e35b5e5957863ef611e5b39b637b8/jetified-FontDrawable-0.9.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/096e35b5e5957863ef611e5b39b637b8/jetified-FontDrawable-0.9.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/096e35b5e5957863ef611e5b39b637b8/jetified-FontDrawable-0.9.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5761090dc207bc166acc192aa9e60ffb/jetified-FontDrawable-0.9.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5761090dc207bc166acc192aa9e60ffb/jetified-FontDrawable-0.9.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5761090dc207bc166acc192aa9e60ffb/jetified-FontDrawable-0.9.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

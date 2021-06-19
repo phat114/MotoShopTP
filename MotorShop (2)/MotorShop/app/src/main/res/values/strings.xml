@@ -1,0 +1,97 @@
+<resources>
+       <!-- <string name="app_name">MotorShop</string>
+        <string name="login">Login</string>-->
+        <string name="usn">Username</string>
+        <!--<string name="pwd">Password</string>
+        <string name="login_guest"><u>Continue As Guest?</u></string>
+        <string name="otp">Please enter your OTP code</string>-->
+        <string name="submit">Submit</string>
+       <!-- <string name="products">Products</string>-->
+        <string name="motors">Motors</string>
+        <string name="accessories">Accessories</string>
+       <!-- <string name="people">People</string>-->
+        <string name="customers">Customers</string>
+        <string name="staffs">Staffs</string>
+        <string name="departments">Departments</string>
+       <!-- <string name="bills">Bills</string>
+        <string name="statistics">Statistics</string>-->
+        <string name="statistics_product">Product Statistics</string>
+        <string name="statistics_revenue">Revenue Statistics</string>
+       <!-- <string name="guarantees">Guarantees</string>
+        <string name="title_main">MOTORS MANAGEMENT APPLICATION</string>-->
+        <string name="user_info">User Information</string>
+        <string name="position">Position</string>
+        <string name="staffID">Staff ID</string>
+        <string name="name">Full Name</string>
+
+    <string name="app_name">MotorShop</string>
+
+    //fav-icon
+
+
+    //Button
+    <string name="login">Đăng Nhập</string>
+    <string name="confirm">Xác Nhận</string>
+
+    //Commons
+    <string name="title_main">ỨNG DỤNG QUẢN LÝ ĐẶT XE MÁY</string>
+    <string name="phone">Số Điện Thoại</string>
+
+
+    //Login
+    <!--    <string name="usn">Tên đăng nhập</string>-->
+    <string name="pwd">Mật khẩu</string>
+    <string name="login_guest"><u>Khách?</u></string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="otp">Xác Thực Bằng Mã OTP</string>
+
+
+    //Brand
+    <string name="brands">Hãng</string>
+
+
+    //Product
+    <string name="products">Sản Phẩm</string>
+
+
+    //--Motor
+
+
+    //--Accessory
+
+
+    //People
+    <string name="people">Con Người</string>
+
+
+    //--Customer
+
+
+    //--Staff
+
+
+    //--Department
+
+
+    //Bill
+    <string name="bills">Hóa Đơn</string>
+
+
+    //Statistics
+    <string name="statistics">Thống Kê</string>
+
+
+    //--Product Statistic
+
+
+    //--Revenue Statistic
+
+
+    //Guarantee
+    <string name="guarantees">Bảo Hành</string>
+    <string name="title_activity_qlnvactivity">QLNVActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_qlnvacitvity">QLNVAcitvity</string>
+    <string name="title_activity_test_tab">TestTab</string>
+</resources>
